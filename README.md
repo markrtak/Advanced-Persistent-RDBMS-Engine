@@ -1,9 +1,6 @@
 # Advanced Persistent RDBMS Engine
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Database](https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 A custom-engineered Relational Database Management System (RDBMS) built from the ground up to explore the internal mechanics of data persistence, physical storage abstraction, and query optimization. This project implements a full-stack database logic, moving from high-level DBMS management down to low-level byte-stream serialization.
 
@@ -243,15 +240,6 @@ Every operation is logged for debugging and auditing:
 - Index creation timing
 - Query execution details
 
-## 👤 Author
-
-**Mark Tak**
-
-- GitHub: [@markrtak](https://github.com/markrtak)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
